@@ -10,7 +10,11 @@ function App() {
         app! Have fun 🚀!
       </p>
       <p>---------------------------------------------------------------------------</p>
-      <NasaData/>
+      
+      <div className="image">
+        <NasaData/>    
+      </div>
+
     </div>
   );
 }
